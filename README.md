@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Athmanand
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Athmanand/Athmanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm interested software development in Microsoft technologies and sql db.
+Currently learning front end development for web application in microsfot technologies like HTML, CSS, JavaScript, JQuery, React etc.
+you can reach me on email bathmanand@yahoo.com
